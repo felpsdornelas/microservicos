@@ -1,0 +1,5 @@
+# Ignorar pastas locais específicas
+.relacionamentos/
+.shopping-api/
+.start-example/
+.user-api/
